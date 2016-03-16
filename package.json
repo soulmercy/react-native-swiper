@@ -1,12 +1,12 @@
 {
-  "name": "react-native-swiper",
+  "name": "react-native-swiper-JW",
   "keywords": [
     "react-component",
     "react-native",
     "ios"
   ],
   "version": "1.4.3",
-  "description": "Swiper component for React Native.",
+  "description": "(Totaly same with react-native-swiper, but fix some warning. May be abandoned any time) Swiper component for React Native.",
   "main": "dist/index.js",
   "scripts": {
     "start": "babel src --out-dir dist --presets es2015,react",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leecade/react-native-swiper.git"
+    "url": "git+https://github.com/soulmercy/react-native-swiper.git"
   },
   "author": "",
   "license": "ISC",
