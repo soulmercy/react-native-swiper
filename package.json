@@ -5,7 +5,7 @@
     "react-native",
     "ios"
   ],
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "(Totaly same with react-native-swiper, but fix some warning. May be abandoned any time) Swiper component for React Native.",
   "main": "dist/index.js",
   "scripts": {
